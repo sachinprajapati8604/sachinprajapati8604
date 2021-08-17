@@ -12,7 +12,6 @@
 
 
 
-![](https://github.com/sachinprajapati8604/github-stats/blob/master/generated/overview.svg)
 
 
 

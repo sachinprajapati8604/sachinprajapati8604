@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on dsa
 - 📫 How to reach me https://www.linkedin.com/in/sachin-prajapati40/
 
-
+# My Stats
 [![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinprajapati8604&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinprajapati8604)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sachinprajapati8604/sachinprajapati8604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

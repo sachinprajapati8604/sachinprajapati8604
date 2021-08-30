@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Prajapati
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning React JS, Node JS.
 - 💞️ I’m looking to collaborate on dsa
 - 📫 How to reach me https://www.linkedin.com/in/sachin-prajapati40/
 

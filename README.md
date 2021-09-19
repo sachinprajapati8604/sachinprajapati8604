@@ -3,6 +3,7 @@
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning React JS, Node JS.
 - 💞️ I’m looking to collaborate on dsa
+- 😄 Passionate about accessibility and committed to a web that works for everyone
 - 📫 How to reach me https://www.linkedin.com/in/sachin-prajapati40/
 
 # 🛠 &nbsp;Tech Stack

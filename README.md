@@ -1,7 +1,7 @@
 #  👋 Hi, I’m Sachin Prajapati
 - 👨‍🔬 Exploring new technologies and developing software solutions
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning React JS, Node JS.
+- 🌱 I’m currently learning React JS, Angular JS Node JS.
 - 💞️ I’m looking to collaborate on dsa
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 - 📫 How to reach me https://www.linkedin.com/in/sachin-prajapati40/
@@ -20,6 +20,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
